@@ -1,6 +1,7 @@
 ### Hi there, I'm Eric 👋
 
 - 🌱 I’m currently learning React
+- 🧩 I document my journey on [Twitter](https://twitter.com/ericPinheir0).
 
 #### Check out my projects on [CodePen](https://codepen.io/ericfariaz)
 
