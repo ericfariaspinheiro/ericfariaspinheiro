@@ -1,7 +1,12 @@
+<h1 align="center">
+    <tt>> Hello world</tt>
+</h1>
+
 ### Hi there, I'm Eric 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web Development
 - 🧩 I document my journey on [Twitter](https://twitter.com/ericPinheir0).
+- 👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/eric-pinheiro-2118a8227/).
 
 #### Check out my projects on [CodePen](https://codepen.io/ericfariaz)
 
