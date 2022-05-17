@@ -21,3 +21,6 @@
   <a href="https://github.com/ericfariaspinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericfariaspinheiro&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
 </div>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
