@@ -4,8 +4,8 @@
 
 ### Hi there, I'm Eric 👋
 
-- 🌱 I’m currently learning Web Development by myself
-- 🎒 Learning C at university 
+- 👨🏻‍💻 I’m currently working at [M3 E-Commerce](https://m3ecommerce.com/) as a Frontend Developer
+- 🎒 Learning Java at university 
 - 👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/eric-pinheiro-2118a8227/).
 - 💻 Check out my [portfolio](https://ericfariaspinheiro.github.io/webPortfolio/)
 - 🦊 [GitLab Profile](https://gitlab.com/ericfariaspinheiro)
