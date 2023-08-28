@@ -5,7 +5,7 @@
 ### Hi there, I'm Eric 👋
 
 - 👨🏻‍💻 I’m currently working at [M3 E-Commerce](https://m3ecommerce.com/) as a Frontend Developer
-- 🎒 Learning Java at university 
+- 🎒 Learning PHP at university 
 - 👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/eric-pinheiro-2118a8227/).
 - 💻 Check out my [portfolio](https://ericfariaspinheiro.github.io/webPortfolio/)
 - 🦊 [GitLab Profile](https://gitlab.com/ericfariaspinheiro)
@@ -21,6 +21,7 @@
   <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eric-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   <img align="center" alt="Eric-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 </div>  
 <br/>
 <div align="center">
